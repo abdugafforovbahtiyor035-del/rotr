@@ -1,4 +1,4 @@
-import "./Contact.css"
+import "./contact.css"
 import lakatsa from "../../assets/lakatsa.png"
 
 function Contact(){
